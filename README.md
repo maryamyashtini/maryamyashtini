@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Maryam Yashtini
+# Hi, I'm Maryam Yashtini
 
-- 🎓 PhD in Mathematics | MS in Industrial & Systems Engineering (ISyE)
-- 🤖 Passionate about:
+- PhD in Mathematics | MS in Industrial & Systems Engineering (ISyE)
+- Passionate about:
   - Large Language Models (LLMs)
   - Generative AI
   - Machine Learning (ML)
   - Computer Vision (CV)
-- 🌱 Currently exploring and building projects in AI, ML, and CV.
-- 💬 Check out my [GitHub projects](https://github.com/maryamyashtini)!
+- Currently exploring and building projects in AI, ML, and CV.
+- Check out my [GitHub projects](https://github.com/maryamyashtini)!
 
 
 <!--
