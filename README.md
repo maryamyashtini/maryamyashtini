@@ -1,9 +1,5 @@
 I'm Sanaz Yashtini 👋
 
-**Senior AI Engineer at [Zvelo](https://zvelo.com)** · I build production ML and agentic LLM systems for cybersecurity threat intelligence.
-
-I've done ML for more than 10 years. I started in academic research on optimization, medical image reconstruction and computer vision. Since 2024 I've been building production ML systems that run at scale.
-
 Areas of expertise
 
 | Area | Focus |
