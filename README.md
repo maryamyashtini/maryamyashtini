@@ -1,5 +1,3 @@
-I'm Sanaz Yashtini 👋
-
 Areas of expertise
 
 | Area | Focus |
