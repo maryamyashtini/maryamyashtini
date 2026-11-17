@@ -1,25 +1,28 @@
-# Hi, I'm Maryam Yashtini
+I'm Sanaz Yashtini 👋
 
-- PhD in Mathematics | MS in Industrial & Systems Engineering (ISyE)
-- Passionate about:
-  - Large Language Models (LLMs)
-  - Generative AI
-  - Machine Learning (ML)
-  - Computer Vision (CV)
-- Currently exploring and building projects in AI, ML, and CV.
-- Check out my [GitHub projects](https://github.com/maryamyashtini)!
+**Senior AI Engineer at [Zvelo](https://zvelo.com)** · I build production ML and agentic LLM systems for cybersecurity threat intelligence.
 
+I've done ML for more than 10 years. I started in academic research on optimization, medical image reconstruction and computer vision. Since 2024 I've been building production ML systems that run at scale.
 
-## 📚 Selected Publications
+Areas of expertise
 
-- **A. Jumabekov** and **M. Yashtini**,  
-  _"WeCAViT: A Weighted CNN model for Pneumonia Detection in Chest X-rays,"_  
-  Proceedings of the 13th International Conference on Intelligent Control and Information Processing (ICICIP 2025), IEEE, 2025.
+| Area | Focus |
+|---|---|
+| **LLMs & agents** | LangGraph, RAG, vector search (ChromaDB), prompt and agent design, LLM evaluation |
+| **Cybersecurity ML** | Phishing and email threat detection, URL analysis, threat-intel pipelines |
+| **Computer vision** | CNN design, image reconstruction, medical imaging |
+| **Optimization** | Convex and nonconvex optimization, the math behind the models |
 
-- **Y. Chen** and **M. Yashtini**,  
-  _"Detecting AI Generated Images through Texture and Frequency Analysis of Patches,"_  
-  4th International Conference on Artificial Intelligence, Virtual Reality and Visualization (AIVRV 2024), January 10, 2024.
+Tech stack
 
-- **Mengyi Tang**, **Maryam Yashtini**, and **Sung Ha Kang**,  
-  _"Counting Objects by Diffused Index: Geometry-free and Training-free Approach,"_  
-  *Journal of Visual Communication and Image Representation*, accepted for publication, March 28, 2022.
+`Python` · `PyTorch` · `TorchServe` · `LangGraph` · `LangChain` · `ChromaDB` · `scikit-learn` · `Docker` · `SQL` · `Git`
+
+Background
+
+- PhD, Applied & Computational Mathematics, University of Florida
+- Postdoc in image processing, Georgia Tech
+- Assistant Professor, Georgetown University (2017–2024), with AI-focused research and publications in imaging and computer vision
+
+Connect
+
+[LinkedIn](https://www.linkedin.com/in/sanaz-y-3b643323/) · sanaz.yashtini1@gmail.com
