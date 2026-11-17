@@ -16,8 +16,8 @@ Tech stack
 Background
 
 - PhD, Applied & Computational Mathematics, University of Florida
-- Postdoc in image processing, Georgia Tech
-- Assistant Professor, Georgetown University (2017–2024), with AI-focused research and publications in imaging and computer vision
+- Postdoc in Computer Vision, Georgia Tech
+- Assistant Professor, Georgetown University (2017–2024), with AI-focused research and publications in AI and computer vision
 
 Connect
 
